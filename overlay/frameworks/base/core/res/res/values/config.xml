@@ -642,4 +642,7 @@
          2 - The device DOES NOT have a permanent menu key; ignore autodetection. -->
     <integer name="config_overrideHasPermanentMenuKey">2</integer>
 
+
+    <!-- Set AOD off by default -->
+    <bool name="config_dozeAlwaysOnEnabled">false</bool>
 </resources>
